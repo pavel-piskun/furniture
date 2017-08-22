@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/furniture.iml" filepath="$PROJECT_DIR$/furniture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/furniture-common/furniture-common.iml" filepath="$PROJECT_DIR$/furniture-common/furniture-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/furniture-generator/furniture-generator.iml" filepath="$PROJECT_DIR$/furniture-generator/furniture-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/furniture-stickers/furniture-stickers.iml" filepath="$PROJECT_DIR$/furniture-stickers/furniture-stickers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/office-utils/office-utils.iml" filepath="$PROJECT_DIR$/office-utils/office-utils.iml" />
+    </modules>
+  </component>
+</project>

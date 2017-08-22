@@ -1,0 +1,1 @@
+start javaw -Xms512m -Xmx512m -jar stickers.jar
